@@ -1,0 +1,6 @@
+@article{REPO253,
+    author = "Liao, Jiayi and Li, Sihang and Yang, Zhengyi and Wu, Jiancan and Yuan, Yancheng and Wang, Xiang and He, Xiangnan",
+    journal = "arXiv preprint arXiv:2312.02445",
+    title = "{Llara: Aligning large language models with sequential recommenders}",
+    year = "2023"
+}
